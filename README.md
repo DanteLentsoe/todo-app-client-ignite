@@ -133,3 +133,8 @@ running, choose Toggle Storybook from the developer menu to switch to Storybook;
 use the story navigator in your browser to change stories.
 
 For Visual Studio Code users, there is a handy extension that makes it easy to load Storybook use cases into a running emulator via tapping on items in the editor sidebar. Install the `React Native Storybook` extension by `Orta`, hit `cmd + shift + P` and select "Reconnect Storybook to VSCode". Expand the STORYBOOK section in the sidebar to see all use cases for components that have `.story.tsx` files in their directories.
+
+
+## Screenshots
+![Screenshot 2021-10-26 at 09 12 31](https://user-images.githubusercontent.com/65385487/138837152-2ad00239-aefd-45f3-9f13-9c3e6c0369cf.png)
+
