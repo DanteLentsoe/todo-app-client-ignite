@@ -14,7 +14,54 @@ Currently includes:
 - TypeScript
 - And more!
 
-## Quick Start
+## Quick Start and Setup
+
+### Prerequisites
+
+- [Node](https://nodejs.org/en/download/) minimum v12.18.0
+- [Yarn] (https://yarnpkg.com/)
+- [Typescript](https://www.typescriptlang.org/download)
+- [Set up SSH](https://support.atlassian.com/bitbucket-cloud/docs/set-up-an-ssh-key/)
+- [React-Native] (https://reactnative.dev/)
+- [Expo app](https://expo.io)
+
+### Preferred package manager
+
+The preferred package manager for this project is `yarn`
+
+### Installing
+
+- Clone the repository using SSH
+
+```
+git clone https://github.com/DanteLentsoe/todo-app-client-ignite.git
+```
+
+- Navigate to the cloned repo
+
+```
+cd todo-app-client-ignite
+```
+
+- Ensure you are using the supported node version for this project. Currently it is set to Node v14
+
+```
+nvm use
+```
+
+_If you dont have nvm installed then you can do so with curl, read more [here] (https://github.com/nvm-sh/nvm/blob/master/README.md)_
+
+- Install dependencies
+
+```
+yarn
+```
+
+- Run the server locally
+
+```
+yarn start
+```
 
 The Ignite boilerplate project's structure will look similar to this:
 
@@ -134,7 +181,6 @@ use the story navigator in your browser to change stories.
 
 For Visual Studio Code users, there is a handy extension that makes it easy to load Storybook use cases into a running emulator via tapping on items in the editor sidebar. Install the `React Native Storybook` extension by `Orta`, hit `cmd + shift + P` and select "Reconnect Storybook to VSCode". Expand the STORYBOOK section in the sidebar to see all use cases for components that have `.story.tsx` files in their directories.
 
-
 ## Screenshots
-![Screenshot 2021-10-26 at 09 12 31](https://user-images.githubusercontent.com/65385487/138837152-2ad00239-aefd-45f3-9f13-9c3e6c0369cf.png)
 
+![Screenshot 2021-10-26 at 09 12 31](https://user-images.githubusercontent.com/65385487/138837152-2ad00239-aefd-45f3-9f13-9c3e6c0369cf.png)
