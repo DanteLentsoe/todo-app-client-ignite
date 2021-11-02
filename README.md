@@ -184,3 +184,5 @@ For Visual Studio Code users, there is a handy extension that makes it easy to l
 ## Screenshots
 
 ![Screenshot 2021-10-26 at 09 12 31](https://user-images.githubusercontent.com/65385487/138837152-2ad00239-aefd-45f3-9f13-9c3e6c0369cf.png)
+
+<img width="409" alt="Screenshot 2021-10-28 at 19 51 29" src="https://user-images.githubusercontent.com/65385487/139916519-1b7f56a1-2b36-44fa-8aff-f88833b60491.png">
